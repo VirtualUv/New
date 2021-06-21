@@ -1,0 +1,35 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#bottle {
+    font-size: 18px;
+    width: 50%;
+    border-radius: 15px;
+}
+#glasses {
+    font-size: 18px;
+    width: 50%;
+    border-radius: 15px;
+}
+#scissors {
+    font-size: 18px;
+    width: 50%;
+    border-radius: 15px;
+}
+#remote {
+    font-size: 18px;
+    width: 50%;
+    border-radius: 15px;
+}
+#fan     {
+    font-size: 18px;
+    width: 50%;
+    border-radius: 15px;
+}
